@@ -1,4 +1,4 @@
-var staticCacheName = "pwaF010Student2" + new Date().getTime();
+var staticCacheName = "pwaF010Student20" + new Date().getTime();
 var filesToCache = [
     './',
     './serviceworker.js',
